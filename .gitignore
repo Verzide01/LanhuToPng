@@ -1,0 +1,20 @@
+# Build outputs
+src/bin/
+src/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache/options
+.vs/
+
+# Test outputs
+output/
+data/
+
+# OS files
+Thumbs.db
+.DS_Store

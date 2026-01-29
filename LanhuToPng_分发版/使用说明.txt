@@ -1,0 +1,26 @@
+LanhuToPng - 蓝湖原型转PNG/PDF工具 
+ 
+使用方法： 
+1. 双击 JsonToPngConverter.exe 启动程序 
+2. 选择 JSON 文件和输出目录 
+3. 点击一键完成按钮 
+ 
+功能说明： 
+- 下载 HTML 
+- 转换 PNG 
+- 转换 PDF 
+- 一键完成所有步骤 
+ 
+注意事项： 
+- 首次运行会自动下载 Chromium 浏览器 
+- override.zip 文件必须和 exe 在同一目录 
+- 需要网络连接才能下载蓝湖原型 
+ 
+系统要求： 
+- Windows 10/11 64位 
+- 无需安装 .NET 运行时 
+ 
+输出文件： 
+- html/ - 下载的 HTML 文件 
+- png/ - 转换的 PNG 截图 
+- 原型截图.pdf - 合并的 PDF 文档 
